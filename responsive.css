@@ -1,0 +1,40 @@
+@media all and (max-width : 1000px){
+    .project{ 
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+}
+@media all and (max-width : 670px){
+    .header-logo{
+        font-size: 15px;
+    }
+    /* .menu-icon{
+        display: block;
+    } */
+    .header-list{
+        display: none;
+    }
+    .top-wrapper h1{
+        font-size: 70px;
+    }
+    .top-wrapper h2{
+        font-size: 30px;
+    }
+    .top-wrapper img{
+        width: 150px;
+    }
+    .project{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .project img{
+        width: 150px;
+    }
+    .hubungi{
+        width: 100%;
+    }
+    .contact-submit{
+        width: 100%;
+    }
+}
